@@ -23,6 +23,7 @@
 - [Digital Nomad Guide](https://digitalnomadsnetwork.org/) - A comprehensive guide for beginners, covering visas, gear, and remote work tips.
 - [The Remote Nomad](https://theremotenomad.com/) - Tips, resources, and inspiration for transitioning to a digital nomad lifestyle.
 - [Work from Anywhere](https://www.workfrom.co/) - A resource for finding places with good Wi-Fi to work from, including cafes and co-working spaces.
+- [Whereaboutly](https://whereaboutly.com/) - A free guide to 800+ destinations with visa rules by passport, cost of living, weather and arrival tips.
 
 ## Work and Productivity
 
